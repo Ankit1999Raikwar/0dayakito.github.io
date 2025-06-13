@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Hero image](/assets/headers/about-banner.webp)
+
 
 # 👋 Hi!
 
