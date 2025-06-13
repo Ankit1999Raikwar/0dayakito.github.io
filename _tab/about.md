@@ -5,7 +5,6 @@ order: 4
 ---
 
 
-
 # 👋 Hi!
 
 I'm Owen de Mooy (aka O), a techie and full time tinkerer at heart. I'm trying my hand at sharing my own tech journey through this site. I enjoy the ever-changing way technology can be used both personally and professionally to enhance our lives.
